@@ -971,8 +971,15 @@ footer {
       <div class="pub-row reveal d2">
         <div class="pub-yr">2026</div>
         <div>
-          <div class="pub-t2">"Integrated Lumped Parameter Modeling of Cardiac–Vascular Interaction with Valve Dynamics and Ventricular Pressure–Volume" <span class="pub-status">Submitted</span></div>
+          <div class="pub-t2">"Integrated Lumped Parameter Modeling of Cardiac–Vascular Interaction with Valve Dynamics and Ventricular Pressure–Volume" <span class="pub-status">Under Review</span></div>
           <div class="pub-m2">Frontiers in Bioengineering and Biotechnology · with Wen Kai Yang, Chia-Yuan Chen</div>
+        </div>
+      </div>
+       <div class="pub-row reveal d2">
+        <div class="pub-yr">2026</div>
+        <div>
+          <div class="pub-t2">"A Lumped-Parameter Cardiovascular Model for Investigating Hemodynamic Alterations During Atrial Fibrillation" <span class="pub-status">Under Review</span></div>
+          <div class="pub-m2">Bioengineering · with Yu-Chien Tung, Chia-Yuan Chen</div>
         </div>
       </div>
       <div class="pub-row reveal d3">
