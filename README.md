@@ -964,7 +964,7 @@ footer {
       <div class="pub-row reveal d1">
         <div class="pub-yr">2026</div>
         <div>
-          <div class="pub-t2">"Modular Reconfiguration and Actuation of Microrobotic Assemblies" <span class="pub-status">Submitted</span></div>
+          <div class="pub-t2">"Modular Reconfiguration and Actuation of Microrobotic Assemblies" <span class="pub-status">Under Review</span></div>
           <div class="pub-m2">Advanced Science · with Tsung-Yen Lu, Chia-Yuan Chen</div>
         </div>
       </div>
