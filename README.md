@@ -1191,16 +1191,14 @@ footer {
         <span class="tw-eco-tag highlight">UMC</span>
         <span class="tw-eco-tag">ASE Group</span>
         <span class="tw-eco-tag">MediaTek</span>
-        <span class="tw-eco-tag">Himax</span>
         <span class="tw-eco-tag">AUO</span>
         <span class="tw-eco-tag highlight">ITRI</span>
         <span class="tw-eco-tag highlight">NCKU Research Park</span>
-        <span class="tw-eco-tag">Southern Taiwan Science Park</span>
-        <span class="tw-eco-tag">NARL</span>
+        <span class="tw-eco-tag highlight">Southern Taiwan Science Park</span>
         <span class="tw-eco-tag">Taiwan AI Labs</span>
         <span class="tw-eco-tag highlight">NCHC</span>
         <span class="tw-eco-tag">Winbond</span>
-        <span class="tw-eco-tag">Macronix</span>
+        <span class="tw-eco-tag highlight">NTHU</span>
         <span class="tw-eco-tag">Foxconn R&amp;D</span>
       </div>
     </div>
