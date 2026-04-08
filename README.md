@@ -939,7 +939,7 @@ footer {
     </div>
     <div class="pub-featured reveal d2">
       <div class="pub-year">Dec 2025</div>
-      <div class="pub-bdg">★ Published</div>
+      <div class="pub-bdg">★ Inside Front Cover</div>
       <div class="pub-title">"Microfluidic Mixing with the Dynamic Control of Magnetic Actuation"</div>
       <div class="pub-authors">Prashant Kishor Sharma, Tsung-Yen Lu, Chia-Yuan Chen</div>
       <div class="pub-journal">Advanced Intelligent Systems · DOI: 10.1002/aisy.202500802</div>
@@ -950,6 +950,13 @@ footer {
       <div class="pub-title">"AI-Integrated Micro/Nanoscale Magnetic Robots for Biomedical Applications: Recent Advances in Design, Fabrication, and Functions"</div>
       <div class="pub-authors">Prashant Kishor Sharma, Chia-Yuan Chen</div>
       <div class="pub-journal">Biosensors · DOI: 10.3390/bios15120793</div>
+    </div>
+    <div class="pub-featured reveal">
+      <div class="pub-year">Feb 2024</div>
+      <div class="pub-bdg">★ Published</div>
+      <div class="pub-title">"A comparative assessment of distributive mode active solar dryers: Flat plate collector vs evacuated tube collector with thermal energy storage and perforated baffled trays"</div>
+      <div class="pub-authors">Krishna Sai Kandukuri, Prashant Kishor Sharma, and Ravi Kumar Arun</div>
+      <div class="pub-journal">Solar Energy, Vol. 271, 112421 · DOI: 10.1016/j.solener.2024.112421</div>
     </div>
 
     <div class="chip" style="margin-top:2.5rem;">Under Review &amp; Submitted</div>
@@ -980,14 +987,6 @@ footer {
         <div>
           <div class="pub-t2">"A Lumped-Parameter Cardiovascular Model for Investigating Hemodynamic Alterations During Atrial Fibrillation" <span class="pub-status">Under Review</span></div>
           <div class="pub-m2">Bioengineering · with Yu-Chien Tung, Chia-Yuan Chen</div>
-        </div>
-      </div>
-      <div class="pub-row reveal d3">
-        <div class="pub-yr">2024</div>
-        <div>
-          <div class="pub-t2">"A Comparative Assessment of Distributive Mode Active Solar Dryers"</div>
-          <div class="pub-m2">Solar Energy Journal · Feb 2024 · with Krishna Sai Kandukuri, Ravi Kumar Arun</div>
-        </div>
       </div>
     </div>
   </div>
